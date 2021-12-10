@@ -1,7 +1,6 @@
 import { Container, Box, Heading, Image, useColorModeValue } from '@chakra-ui/react'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
-import NextLink from 'next/link'
 
 const Page = () => {
   return (
